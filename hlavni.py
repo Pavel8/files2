@@ -27,7 +27,7 @@ with open (NOVY, "w") as new:
 
 with open ("test.txt", "r") as test:
     lines = test.readlines()
-
+lines[-1]  += "\n"
 lines.reverse()
 
 with open ("task2_file", "w") as task2:
@@ -40,3 +40,9 @@ with open ("test.txt", "r") as test:
 
 print(len(number))
 
+#TASK 10
+
+with open ("test.txt", "r") as test:
+    n_lines = test.readlines()
+
+print(len(n_lines))

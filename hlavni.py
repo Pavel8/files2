@@ -2,9 +2,10 @@
 import string
 
 FILE_PATH = "test.txt"
-
+"""
 with open (FILE_PATH, "w") as f:
     f.write("zadany soubory")
+"""
 
 long_words = []
 
@@ -22,4 +23,14 @@ with open (NOVY, "w") as new:
     for i in long_words:
         new.write(i + "\n")
 
-#ymena
+#TASK 2/3
+
+with open ("test.txt", "r") as test:
+    lines = test.readlines()
+
+lines.reverse()
+
+with open ("task2_file", "w") as task2:
+    task2.writelines(lines)
+
+

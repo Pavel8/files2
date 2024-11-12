@@ -22,3 +22,4 @@ with open (NOVY, "w") as new:
     for i in long_words:
         new.write(i + "\n")
 
+#ymena

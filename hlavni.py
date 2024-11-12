@@ -33,4 +33,10 @@ lines.reverse()
 with open ("task2_file", "w") as task2:
     task2.writelines(lines)
 
+#TASK 9
+
+with open ("test.txt", "r") as test:
+    number = test.read()
+
+print(len(number))
 

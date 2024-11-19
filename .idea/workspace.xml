@@ -20,7 +20,7 @@
   </component>
   <component name="ProjectId" id="2ol6UcRHPHwVQXe23J2kjnxBtO1" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/objekty_start.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Moje_inheritance.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +35,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="objekty_start" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Moje_inheritance" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="files2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objekty_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moje_inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
